@@ -6,7 +6,9 @@ I have an MEng in Electrical and Electronic Engineering and PhD in Computer Scie
 
 ### Research
 
-I am interested in the use of computer software and simulations to model complex systems. Through the modelling of these systems, one is able to better understand and optimise these systems without making mistakes in the real world. Much of my previous work has involved the modelling of electricity markets, both over the short and long-term using agent-based models and optimisation.
+I am interested in the use of computer software and simulations to model complex systems. Through the modelling of these systems, one is able to better understand and optimise these systems without making mistakes in the real world. 
+
+Much of my own work has involved the modelling of electricity markets, both over the short and long-term using agent-based models and optimisation.
 
 
 
