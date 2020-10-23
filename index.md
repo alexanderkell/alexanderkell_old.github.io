@@ -12,10 +12,6 @@ I am interested in the use of computer software and simulations to model complex
 
 ### Sites
 
-[Google scholar](https://scholar.google.com/citations?user=O0iuX0EAAAAJ&hl=en)
-
-[Email](a.kell@imperial.ac.uk)
-
-[Blog](http://www.alexanderkell.co.uk)
+[Google scholar](https://scholar.google.com/citations?user=O0iuX0EAAAAJ&hl=en), [Email](a.kell@imperial.ac.uk), [Blog](http://www.alexanderkell.co.uk)
 
 
