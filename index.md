@@ -7,7 +7,10 @@ I have an MEng in Electrical and Electronic Engineering and PhD in Computer Scie
 ### Contact me
 
 [Google scholar](https://scholar.google.com/citations?user=O0iuX0EAAAAJ&hl=en)
+
 [email](a.kell@imperial.ac.uk)
+
+[blog](http://www.alexanderkell.co.uk)
 
 
 ### Markdown
