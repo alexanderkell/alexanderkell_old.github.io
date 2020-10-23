@@ -4,6 +4,11 @@ I am a Research Associate at Imperial College London in the Department of Chemic
 
 I have an MEng in Electrical and Electronic Engineering and PhD in Computer Science from University College London and Newcastle University respectively.
 
+### Contact me
+
+[Google scholar](https://scholar.google.com/citations?user=O0iuX0EAAAAJ&hl=en)
+[email](a.kell@imperial.ac.uk)
+
 
 ### Markdown
 
