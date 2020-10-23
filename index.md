@@ -8,7 +8,7 @@ I have an MEng in Electrical and Electronic Engineering and PhD in Computer Scie
 
 I am interested in the use of computer software and simulations to model complex systems. Through the modelling of these complex systems, one is able to better understand and optimise them without the negative consequences that could occur in the real-world. 
 
-Much of my own work has involved the modelling of electricity markets, both over the short and long-term using agent-based models and optimisation [[1]](https://dl.acm.org/doi/abs/10.1145/3396851.3397682), [[2]](https://dl.acm.org/doi/abs/10.1145/3396851.3402369).
+Much of my own work involves the modelling of electricity markets, both over the short and long-term using agent-based models and optimisation [[1]](https://dl.acm.org/doi/abs/10.1145/3396851.3397682), [[2]](https://dl.acm.org/doi/abs/10.1145/3396851.3402369).
 
 
 
