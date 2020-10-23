@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-I am a research associate at Imperial College London, interested in modelling future of energy systems.
+I am a research associate at Imperial College London in the Department of Chemical Engineering. I am primarily interested in the modelling of future of energy systems.
+
+I have a background in electrical and electronic engineering and computer science from University College London and Newcastle University respectively.
 
 
 ### Markdown
