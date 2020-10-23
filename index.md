@@ -1,6 +1,6 @@
 ## About me
 
-I am a Research Associate at Imperial College London in the Department of Chemical Engineering. I am primarily interested in the modelling of future of energy systems.
+I am a Research Associate at Imperial College London in the Department of Chemical Engineering. I am primarily interested in the modelling of future energy systems.
 
 I have an MEng in Electrical and Electronic Engineering and PhD in Computer Science from University College London and Newcastle University respectively.
 
