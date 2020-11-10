@@ -14,6 +14,6 @@ Much of my own work involves the modelling of electricity markets, both over the
 
 ### Sites
 
-[Google scholar](https://scholar.google.com/citations?user=O0iuX0EAAAAJ&hl=en), [Email](a.kell@imperial.ac.uk), [Blog](http://blog.alexanderkell.co.uk)
+[Google scholar](https://scholar.google.com/citations?user=O0iuX0EAAAAJ&hl=en), [Email](a.kell@imperial.ac.uk), [Blog](https://medium.com/@alexanderkell)
 
 
